@@ -31,7 +31,7 @@
 #include <EGL/egl.h>
 #include <EGL/eglext.h>
 
-#include <gbm.h>
+#include <gbm1.h>
 #include <drm_fourcc.h>
 #include <stdbool.h>
 
